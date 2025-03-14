@@ -14,10 +14,7 @@ This repository contains *SQL projects* focused on data analysis, query optimiza
 ✅ CTEs & Window Functions  
 ✅ Performance Optimization  
 
-## 🔗 How to Use  
-Clone this repo using:  
-```bash
-git clone https://github.com/your-username/SQL-Data-Projects.git
+
 
 
 ## 📂 SQL Scripts  
